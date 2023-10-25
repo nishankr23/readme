@@ -5,8 +5,6 @@ Coding for 2 years.Trying to master as many languages as possible.
 
 * 🌍  I'm based in Mangaluru,India
 * ✉️  You can contact me at [nishankr23@gmail.com](mailto:nishankr23@gmail.com)
-* 🧠  I'm learning Web Development
-* ⚡  I type pretty fast... max speed reached till now is 149 wpm as main live speed and 162 wpm as raw speed :)
 
 ### Skills
 
